@@ -1,2 +1,2 @@
-# mygitpub
-my repository for public
+# c++
+c++ examples for public
