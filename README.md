@@ -1,2 +1,2 @@
 # c++
-c++ examples for public
+c++ interview tests
